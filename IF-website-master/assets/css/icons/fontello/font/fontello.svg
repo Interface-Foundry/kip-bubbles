@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="search" unicode="&#xe800;" d="m0 386q0 80 31 152t84 126 125 84 153 31 152-31 126-84 84-126 31-152q0-123-69-223l191-191q21-21 21-51 0-29-22-50t-50-21q-30 0-50 21l-191 191q-100-69-223-69-80 0-153 31t-125 83-84 126-31 153z m143 0q0-103 73-177t177-73 176 73 74 177-74 176-176 74-177-74-73-176z" horiz-adv-x="928.6" />
+<glyph glyph-name="paper-plane" unicode="&#xe801;" d="m0 276q-1 23 18 33l928 536q9 5 18 5 11 0 20-6 19-14 15-36l-142-857q-3-16-18-25-8-5-18-5-6 0-13 3l-253 103-135-164q-10-13-27-13-7 0-12 2-11 4-17 13t-7 21v194l482 591-596-516-221 91q-20 7-22 30z" horiz-adv-x="1000" />
+<glyph glyph-name="forrst" unicode="&#xe80e;" d="m0-150l417 1000 417-1000-369 0 0 135 170 85-13 55-157-79 0 67 98 52-14 57-84-45 0 87-92 0 0-157-86 59-16-64 102-70 0-182-373 0z" horiz-adv-x="834" />
+</font>
+</defs>
+</svg>
